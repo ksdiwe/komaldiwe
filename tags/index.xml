@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Komal Diwe</title>
+    <link>https://ksdiwe.github.io/komaldiwe/tags/</link>
+    <description>Recent content in Tags on Komal Diwe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2023 11:14:48 -0400</lastBuildDate><atom:link href="https://ksdiwe.github.io/komaldiwe/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power BI Dashboard</title>
+      <link>https://ksdiwe.github.io/komaldiwe/tags/power-bi-dashboard/</link>
+      <pubDate>Wed, 22 Feb 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/tags/power-bi-dashboard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

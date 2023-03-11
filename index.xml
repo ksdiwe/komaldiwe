@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Komal Diwe</title>
+    <link>https://ksdiwe.github.io/komaldiwe/</link>
+    <description>Recent content in Data Science Portfolio on Komal Diwe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2023 11:14:48 -0400</lastBuildDate><atom:link href="https://ksdiwe.github.io/komaldiwe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Atliq Hardware Consumer Goods Insights</title>
+      <link>https://ksdiwe.github.io/komaldiwe/post/project-4/</link>
+      <pubDate>Wed, 22 Feb 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/post/project-4/</guid>
+      <description>Domain: Consumer Goods | Function: Executive Management Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
+However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: AtliQ Mart Supply Chain Analysis</title>
+      <link>https://ksdiwe.github.io/komaldiwe/post/project-3/</link>
+      <pubDate>Fri, 27 Jan 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/post/project-3/</guid>
+      <description>As part of the October month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI. Dashboard
+Problem Statement AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
+AtliQ Mart is currently facing a problem where a few key customers did not extend the annual contract due to service issues.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Book Recommender System</title>
+      <link>https://ksdiwe.github.io/komaldiwe/post/project-2/</link>
+      <pubDate>Fri, 13 Jan 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/post/project-2/</guid>
+      <description>𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝘃𝗲 𝗙𝗶𝗹𝘁𝗲𝗿𝗶𝗻𝗴-𝗕𝗮𝘀𝗲𝗱 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗲𝗿 𝗦𝘆𝘀𝘁𝗲𝗺 Web App
+Approach:
+I first filtered the data by considering only those users who have rated more than 200 books and only those books that have received more than 50 ratings. This step helped in reducing the noise and sparsity in the data by focusing on users and books that have a significant number of ratings. Next, calculated the similarity scores between the books using the Euclidean distance similarity measure.</description>
+    </item>
+    
+    <item>
+      <title>Book Recommender System</title>
+      <link>https://ksdiwe.github.io/komaldiwe/blogs/blog-1/</link>
+      <pubDate>Fri, 13 Jan 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/blogs/blog-1/</guid>
+      <description>A book recommender system is a tool that helps users discover new books to read based on their reading preferences. It works by analyzing users’ reading behavior and recommending books similar to those they have read in the past.
+Imagine you have just finished reading a book, and you’re looking for your next read. You go to your favorite online bookstore and start browsing, but there are so many options, and you’re not sure what to pick.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Youtube API - Analyzing Data Science channels</title>
+      <link>https://ksdiwe.github.io/komaldiwe/post/project-1/</link>
+      <pubDate>Tue, 27 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/post/project-1/</guid>
+      <description>YouTube Dashboard
+I was so amazed by how easy and simple it is to create dashboards with streamlit.
+While browsing YouTube, I stumbled upon a video by Thu Vu showcasing the potential of the YouTube API to create an interactive Python dashboard.
+The idea intrigued me, and I felt compelled to experiment with it myself. Eventually, I decided to use the API to analyze and display data on various Data Science channels.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ksdiwe.github.io/komaldiwe/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/about/</guid>
+      <description>Hello there! This is Komal 😃
+I&amp;rsquo;m a Master&amp;rsquo;s Student in Artificial Intelligence. So yeah, I&amp;rsquo;m a data nerd, and I like sharing knowledge about Data science skills, tech.
+In my free time, I like painting in oilcolor. It&amp;rsquo;s one of my most serious hobbies.
+Komal Diwe “I&amp;rsquo;m not smart, I&amp;rsquo;m just passionately curious.” </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ksdiwe.github.io/komaldiwe/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform Twitter | LinkedIn | GitHub | Instagram | Medium
+You can mail me on : komaldiwe28@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Notes</title>
+      <link>https://ksdiwe.github.io/komaldiwe/resources/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/resources/chapter-1/</guid>
+      <description>From foundational concepts to advanced techniques, these notes provide a valuable resource for anyone looking to expand their knowledge and skills in Machine Learning.
+Linear Regression Notes
+Regularization
+Logistic Regression
+In-Depth Logistic Regression
+Support Vector Machine Part 01
+Support Vector Machine Part 02
+ROC Curve
+Decision Tree ( Andrew NG lecture )
+Decision Tree
+Ensemble Techniques
+Boosting Algorithms
+kmeans
+Naive Bayes</description>
+    </item>
+    
+    <item>
+      <title>Statistics Notes</title>
+      <link>https://ksdiwe.github.io/komaldiwe/resources/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/resources/chapter-2/</guid>
+      <description>From foundational concepts to advanced techniques, these notes provide a valuable resource for anyone looking to expand their knowledge and skills in Machine Learning.
+Statistical Distribution</description>
+    </item>
+    
+  </channel>
+</rss>

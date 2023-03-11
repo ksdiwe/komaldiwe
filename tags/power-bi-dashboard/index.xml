@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power BI Dashboard on Komal Diwe</title>
+    <link>https://ksdiwe.github.io/komaldiwe/tags/power-bi-dashboard/</link>
+    <description>Recent content in Power BI Dashboard on Komal Diwe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2023 11:14:48 -0400</lastBuildDate><atom:link href="https://ksdiwe.github.io/komaldiwe/tags/power-bi-dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Atliq Hardware Consumer Goods Insights</title>
+      <link>https://ksdiwe.github.io/komaldiwe/post/project-4/</link>
+      <pubDate>Wed, 22 Feb 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/post/project-4/</guid>
+      <description>Domain: Consumer Goods | Function: Executive Management Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
+However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills.</description>
+    </item>
+    
+  </channel>
+</rss>

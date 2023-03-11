@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Komal Diwe</title>
+    <link>https://ksdiwe.github.io/komaldiwe/resources/</link>
+    <description>Recent content in Resources on Komal Diwe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ksdiwe.github.io/komaldiwe/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Notes</title>
+      <link>https://ksdiwe.github.io/komaldiwe/resources/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/resources/chapter-1/</guid>
+      <description>From foundational concepts to advanced techniques, these notes provide a valuable resource for anyone looking to expand their knowledge and skills in Machine Learning.
+Linear Regression Notes
+Regularization
+Logistic Regression
+In-Depth Logistic Regression
+Support Vector Machine Part 01
+Support Vector Machine Part 02
+ROC Curve
+Decision Tree ( Andrew NG lecture )
+Decision Tree
+Ensemble Techniques
+Boosting Algorithms
+kmeans
+Naive Bayes</description>
+    </item>
+    
+    <item>
+      <title>Statistics Notes</title>
+      <link>https://ksdiwe.github.io/komaldiwe/resources/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/resources/chapter-2/</guid>
+      <description>From foundational concepts to advanced techniques, these notes provide a valuable resource for anyone looking to expand their knowledge and skills in Machine Learning.
+Statistical Distribution</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Komal Diwe</title>
+    <link>https://ksdiwe.github.io/komaldiwe/blogs/</link>
+    <description>Recent content in Blogs on Komal Diwe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ksdiwe.github.io/komaldiwe/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Recommender System</title>
+      <link>https://ksdiwe.github.io/komaldiwe/blogs/blog-1/</link>
+      <pubDate>Fri, 13 Jan 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://ksdiwe.github.io/komaldiwe/blogs/blog-1/</guid>
+      <description>A book recommender system is a tool that helps users discover new books to read based on their reading preferences. It works by analyzing users’ reading behavior and recommending books similar to those they have read in the past.
+Imagine you have just finished reading a book, and you’re looking for your next read. You go to your favorite online bookstore and start browsing, but there are so many options, and you’re not sure what to pick.</description>
+    </item>
+    
+  </channel>
+</rss>
